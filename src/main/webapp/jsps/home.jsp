@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Dcomforters' Kitchen Web Application Project.</h1>
+<h1 align="center">Welcome to Dcomforters' Technologies Web Application Project.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising billionaires IT professionals accross the nations of the World.
+	           We are raising billionaires-IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud Computing, equipping IT Engineers for best performance.
-        Landmark Technologies, the Pride of Africa.
+        Dcomforter Technologies, the Pride of Africa.
 	Class36 DevOps MasterClass will start on April 13, 2024.
         Please invite all your contacts and friends for this life changing course.
 </h1>

@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://64.23.249.109:8181/dcomfortertech/repository/kitchen-web-releases/</url>
+	      <url>http://10.124.0.2:8181/dcomfortertech/repository/kitchen-web-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
